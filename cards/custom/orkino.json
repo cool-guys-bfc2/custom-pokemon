@@ -1,3 +1,11 @@
 {
-  'types':['water','ice']
+  'types':['water','ice','dark'],
+  'name':'Orkino',
+  'health':260,
+  'attacks':[
+  'Slam-40-Body slam',
+  'Bite-80-Hard bite of 19000PSI',
+  'Breach-90-Hard breach body slam!',
+  'Dark Magic-120-Dark magic'
+  ]
 }
